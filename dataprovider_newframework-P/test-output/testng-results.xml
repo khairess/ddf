@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="378" started-at="2018-08-15T18:49:32Z" finished-at="2018-08-15T18:49:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="378" started-at="2018-08-15T18:49:32Z" finished-at="2018-08-15T18:49:33Z">
+      <class name="com.dataprovider_newframework_pkg.test_cases">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="start" is-config="true" duration-ms="21639" started-at="2018-08-16T00:19:11Z" finished-at="2018-08-16T00:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="login" duration-ms="5" started-at="2018-08-16T00:19:32Z" data-provider="login_data" finished-at="2018-08-16T00:19:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ssss]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://www.buzzle.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="login" duration-ms="1" started-at="2018-08-16T00:19:32Z" data-provider="login_data" finished-at="2018-08-16T00:19:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sudhir@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ssddd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5678]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="login" duration-ms="1" started-at="2018-08-16T00:19:32Z" data-provider="login_data" finished-at="2018-08-16T00:19:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rrrr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://in.yahoo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="open_article(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="open_article" duration-ms="1" started-at="2018-08-16T00:19:33Z" data-provider="login_data" finished-at="2018-08-16T00:19:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ssss]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://www.buzzle.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_article -->
+        <test-method status="PASS" signature="open_article(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="open_article" duration-ms="1" started-at="2018-08-16T00:19:33Z" data-provider="login_data" finished-at="2018-08-16T00:19:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sudhir@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ssddd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5678]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_article -->
+        <test-method status="PASS" signature="open_article(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="open_article" duration-ms="1" started-at="2018-08-16T00:19:33Z" data-provider="login_data" finished-at="2018-08-16T00:19:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[rrrr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1111]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://in.yahoo.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_article -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dataprovider_newframework_pkg.test_cases@1b68ddbd]" name="tearDown" is-config="true" duration-ms="1380" started-at="2018-08-16T00:19:33Z" finished-at="2018-08-16T00:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dataprovider_newframework_pkg.test_cases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
